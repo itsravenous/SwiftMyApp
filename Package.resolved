@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "MyLibrary",
+        "repositoryURL": "https://github.com/itsravenous/SwiftMyLibrary",
+        "state": {
+          "branch": null,
+          "revision": "86d1bf6f9487f7a73a1bd58590b2c3747a2bee48",
+          "version": "1.0.1"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
