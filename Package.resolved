@@ -2,6 +2,15 @@
   "object": {
     "pins": [
       {
+        "package": "I3S",
+        "repositoryURL": "https://github.com/mwsrp/i3s-swift-wrapper",
+        "state": {
+          "branch": null,
+          "revision": "ce96d635717058477755003102ea859245dbe63b",
+          "version": "1.0.0"
+        }
+      },
+      {
         "package": "MyLibrary",
         "repositoryURL": "https://github.com/itsravenous/SwiftMyLibrary",
         "state": {
