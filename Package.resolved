@@ -2,6 +2,15 @@
   "object": {
     "pins": [
       {
+        "package": "i3s",
+        "repositoryURL": "https://github.com/itsravenous/SwiftCppPackage",
+        "state": {
+          "branch": null,
+          "revision": "aa7812755b006870904798c2b2421c3d54530dfa",
+          "version": "1.1.0"
+        }
+      },
+      {
         "package": "I3S",
         "repositoryURL": "https://github.com/mwsrp/i3s-swift-wrapper",
         "state": {
